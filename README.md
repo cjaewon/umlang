@@ -1,4 +1,5 @@
 # The 음(Um) Programming Language
+제작자 : **cjaewon**, **ybs**  
 
 ## 프로젝트
 - javascript-base : 자바스크립트로 구현한 인터프리터
