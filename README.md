@@ -1,9 +1,11 @@
 # The 음(Um) Programming Language
 제작자 : **cjaewon**, **ybs**  
 
+> 현재 레포는 유지보수는 되지 않습니다. ybs1164님의 umlang 포크버전을 참조해주세요!  
+[ybs1164님의 umlang fork 버전](https://github.com/ybs1164/umlang)
+
 ## 프로젝트
 #### 이 프로젝트는 음언어의 JS 인터프리터입니다.
-
 
 ## ℹ️ 음언어 특징 / 장점
 - 
