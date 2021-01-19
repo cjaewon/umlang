@@ -1,7 +1,7 @@
 # The 음(Um) Programming Language
 제작자 : **cjaewon**, **ybs**  
 
-> 현재 레포는 유지보수는 되지 않습니다. ybs1164님의 umlang 포크버전을 참조해주세요!  
+> 현재 레포는 유지보수가 진행되지 않습니다. ybs1164님의 umlang 포크버전을 참조해주세요!  
 [ybs1164님의 umlang fork 버전](https://github.com/ybs1164/umlang)
 
 ## 프로젝트
